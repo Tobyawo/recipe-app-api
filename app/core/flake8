@@ -1,0 +1,6 @@
+[flake8]
+exclude =
+  /Users/tobyawo/personal_folder/recipe-app-api/app/core/migrations,
+  ./app/manage.py,
+   ./app/settings.py,
+    __pycache__,
